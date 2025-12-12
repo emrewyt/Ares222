@@ -6,7 +6,7 @@
   ### Modern Dünyanın Y2K Estetiğiyle yaratılmış Dijital Özgürlüğü
   
   
-  [![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/emrewyt)
+  [![Version](https://img.shields.io/badge/version-2.0.0-blue.svg)](https://github.com/emrewyt)
   [![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red.svg)](https://github.com/emrewyt)
 </div>
 
