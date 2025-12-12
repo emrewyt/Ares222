@@ -1,7 +1,7 @@
 # 🌊 NexUS WebOS
 
 <div align="center">
-  <img src="Assets/Nexus.png" alt="NexUS Logo" width="150" height="150" style="border-radius: 30px;">
+  <img src="https://raw.githubusercontent.com/emrewyt/WebOS/refs/heads/main/Assets/Nexus.png?token=GHSAT0AAAAAADJO5D7FUB2BX5G3O3NG7GCU2J4SRNA" alt="NexUS Logo" width="150" height="150" style="border-radius: 30px;">
   
   ### Modern Web Tabanlı İşletim Sistemi
   *macOS'tan ilham alan şık tasarım ve güçlü özelliklerle*
